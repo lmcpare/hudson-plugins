@@ -13,6 +13,7 @@
   <name>Bugzilla plugin</name>
   <description>Bugzilla integration - link bugs in changeset descriptions</description>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Bugzilla+Plugin</url>
+
   <developers>
     <developer>
       <name>New Maintainer Needed</name>
